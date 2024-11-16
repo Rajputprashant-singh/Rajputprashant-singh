@@ -2,8 +2,10 @@
 - 👋 Hi, I’m @Rajputprashant-singh
 - 👀 I’m interested in data science, AI & Machine learning.
 - 🌱 I’m currently learning Advanced AI
-- 📫 How to reach me Email - Prashantgaharwar831@gmail.com
-- 😄 Pronouns: He/Him
+
+Reach me at -
+
+my LinkedIn profile 
 
 <!---
 Rajputprashant-singh/Rajputprashant-singh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
